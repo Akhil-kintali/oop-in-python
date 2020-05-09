@@ -525,7 +525,7 @@ if __name__ == "__main__":
         print("Missed setting safe access to numerator")
     except AttributeError:
         pass
-    
+    hfhfghfhf
     #print("{}/{} = {}".format(fraction_one.numerator,fraction_one.denominator,round((result_decimal_value),3)))
     print(isinstance(fraction_one, Fraction))
     print(result_decimal_value)
